@@ -1,0 +1,3 @@
+function coolJavaScript(){
+    return 'cool'
+}
